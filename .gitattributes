@@ -1,1 +1,2 @@
 processedImages/* filter=lfs diff=lfs merge=lfs -text
+yalefaces/* filter=lfs diff=lfs merge=lfs -text
